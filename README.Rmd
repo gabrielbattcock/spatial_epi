@@ -1,0 +1,4 @@
+# Spatial epi README
+## Gabriel Battcock
+
+Examples of 
